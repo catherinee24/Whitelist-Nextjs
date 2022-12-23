@@ -17,10 +17,10 @@ Making the frontend part of my project Whitelist smart contract!
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/whitelist-nextjs
+$ git clone https://github.com/catherinee24/Whitelist-Nextjs
 
 # Access
-$ cd whitelist-nextjs
+$ cd Whitelist-Nextjs
 
 # Install dependencies
 $ npm install 
